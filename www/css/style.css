@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(0, 0, 0);
+}
+
+.container{
+  width: 90%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(to bottom, #d642bd 0%, #3f4242 100%);
+  border-radius: 5px 5px 5px 5px;
+}
+
+.cindex{
+  height: 350px;
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  margin: auto;
+}
+
+.rind{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.rscan{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pdesc{
+  font-size: 18px;
+  text-align: justify;
+  font-family: verdana;
+}
+
+ul>li{
+  font-size: 16px;
+  text-align: justify;
+  font-family: verdana;
+}
+
+.imgProd{
+  width: 98%;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#imgindex{
+  width: 95%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#scan{
+  margin-top: -30px;
+}
